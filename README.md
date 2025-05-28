@@ -1,6 +1,6 @@
 
 
- 🚀 Upesi: Smart Fraud Management & Instant Payment Solutions
+ 🚀 Upesi (a startup I founded) : Smart Fraud Management & Instant Payment Solutions
 
 Welcome to Upesi, the intelligent platform designed to help businesses detect fraud in real-time and ensure seamless, rapid payment processing. Whether you're an enterprise or a growing startup, Upesi empowers you to protect your revenue and streamline your transactions with confidence.
 
